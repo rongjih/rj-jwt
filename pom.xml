@@ -4,7 +4,31 @@
 	<groupId>rj.jwt</groupId>
 	<artifactId>rj-jwt4j</artifactId>
 	<version>0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
 	<name>rj-jwt4j</name>
+	<description>Pure Java implementation for JSON Web Token (JWT)</description>
+	<url>https://github.com/rj000/rj-jwt4j</url>
+
+	<licenses>
+		<license>
+			<name>MIT</name>
+			<url>https://opensource.org/licenses/MIT</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<scm>
+		<url>https://github.com/rj000/rj-jwt4j.git</url>
+	</scm>
+
+	<developers>
+		<developer>
+			<name>RJ Huang</name>
+			<email>rongjihuang@gmail.com</email>
+		</developer>
+	</developers>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.8</jdk.version>
