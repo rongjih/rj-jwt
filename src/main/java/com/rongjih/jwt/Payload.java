@@ -1,4 +1,4 @@
-package rj.jwt;
+package com.rongjih.jwt;
 
 import javax.json.Json;
 import javax.json.JsonObject;

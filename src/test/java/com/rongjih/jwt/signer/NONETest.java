@@ -1,9 +1,9 @@
-package rj.jwt.signer;
+package com.rongjih.jwt.signer;
 
+import com.rongjih.jwt.SignerFactory;
 import org.junit.Test;
-import rj.jwt.Algorithm;
-import rj.jwt.Signer;
-import rj.jwt.SignerFactory;
+import com.rongjih.jwt.Algorithm;
+import com.rongjih.jwt.Signer;
 
 import java.nio.charset.StandardCharsets;
 

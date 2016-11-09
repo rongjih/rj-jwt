@@ -1,7 +1,7 @@
-package rj.jwt;
+package com.rongjih.jwt;
 
-import rj.jwt.signer.HS256;
-import rj.jwt.signer.NONE;
+import com.rongjih.jwt.signer.HS256;
+import com.rongjih.jwt.signer.NONE;
 
 import java.util.HashMap;
 import java.util.Map;

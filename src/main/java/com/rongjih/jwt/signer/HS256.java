@@ -1,7 +1,7 @@
-package rj.jwt.signer;
+package com.rongjih.jwt.signer;
 
-import rj.jwt.SignException;
-import rj.jwt.Signer;
+import com.rongjih.jwt.SignException;
+import com.rongjih.jwt.Signer;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>rj.jwt</groupId>
+	<groupId>com.rongjih</groupId>
 	<artifactId>rj-jwt4j</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>rj-jwt4j</name>
 	<description>Pure Java implementation for JSON Web Token (JWT)</description>
-	<url>https://github.com/rj000/rj-jwt4j</url>
+	<url>https://github.com/rongjih/rj-jwt4j</url>
 
 	<licenses>
 		<license>
@@ -19,7 +19,7 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/rj000/rj-jwt4j.git</url>
+		<url>https://github.com/rongjih/rj-jwt4j.git</url>
 	</scm>
 
 	<developers>

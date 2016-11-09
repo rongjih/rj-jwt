@@ -1,4 +1,4 @@
-package rj.jwt;
+package com.rongjih.jwt;
 
 /**
  * @author RJ

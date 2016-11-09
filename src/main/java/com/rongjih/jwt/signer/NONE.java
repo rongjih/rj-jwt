@@ -1,6 +1,6 @@
-package rj.jwt.signer;
+package com.rongjih.jwt.signer;
 
-import rj.jwt.Signer;
+import com.rongjih.jwt.Signer;
 
 import java.nio.charset.StandardCharsets;
 
