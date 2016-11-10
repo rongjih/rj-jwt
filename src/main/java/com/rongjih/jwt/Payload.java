@@ -53,6 +53,8 @@ public final class Payload extends Base {
 
 	/**
 	 * Get the public/private claims.
+	 *
+	 * @return the public/private claims
 	 */
 	public Map<String, String> getData() {
 		if (data == null) data = new HashMap<>();

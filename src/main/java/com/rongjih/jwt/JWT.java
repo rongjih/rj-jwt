@@ -55,7 +55,7 @@ public final class JWT {
 
 	/**
 	 * Validate whether the JWT is valid. If valid return the decoded instance.
-	 * <p>
+	 *
 	 * <p>Follow <code>rfc7519#section-7</code> to validating a JWT</p>
 	 *
 	 * @param jwt    jwt

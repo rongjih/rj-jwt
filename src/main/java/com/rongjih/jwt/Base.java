@@ -15,6 +15,7 @@ import java.util.Base64;
 abstract class Base {
 	/**
 	 * Convert this instance to JsonObject.
+	 * @return this instance JsonObject
 	 */
 	abstract JsonObject toJson();
 
