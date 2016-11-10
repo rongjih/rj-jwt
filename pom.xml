@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rongjih</groupId>
 	<artifactId>rj-jwt4j</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>rj-jwt4j</name>
