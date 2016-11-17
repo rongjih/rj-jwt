@@ -7,7 +7,7 @@
 		<version>0.1.0</version>
 	</parent>
 	<artifactId>rj-jwt</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>rj-jwt</name>
